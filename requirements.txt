@@ -1,0 +1,5 @@
+requests==2.21.0
+openpyxl==3.0.9
+PyQt5==5.15.6
+urllib3==1.24.3
+steampy==0.74
